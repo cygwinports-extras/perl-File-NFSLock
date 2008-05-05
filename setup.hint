@@ -1,0 +1,4 @@
+category: Perl
+requires: perl
+sdesc: "Perl NFS locking module"
+ldesc: "Perl module to do NFS (or not) locking"
